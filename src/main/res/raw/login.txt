@@ -1,0 +1,13 @@
+{
+  "lightLoginRequest": {
+    "type": {
+      "$": "lightLoginFI"
+    },
+    "password": {
+      "$": "%s"
+    },
+    "userId": {
+      "$": "%s"
+    }
+  }
+}

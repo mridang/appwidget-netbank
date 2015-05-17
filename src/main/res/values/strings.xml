@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Netbank</string>
+    <string name="credentials">Credentials</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+</resources>

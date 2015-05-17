@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.mridang.wallet" >
+
+    <PreferenceCategory android:title="@string/credentials" >
+        <EditTextPreference
+            android:inputType="number"
+            android:key="username"
+            android:title="@string/username" />
+        <EditTextPreference
+            android:inputType="numberPassword"
+            android:key="password"
+            android:title="@string/password" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
